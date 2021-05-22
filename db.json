@@ -2,29 +2,41 @@
   "heads": [
       {
         "id": "1",
-        "race":"alien",
-        "sex":"male",
-        "powertype":"martial",
-        "psychology1":"rage",
-        "type":"warrior",
-        "attribute1":"polychromaticSkin",
-        "attribute2":"boneSpurs",
-        "attribute3":"redEyes",
-        "image_url":"",
-        "description":"Hunt The Villain Now"
-      },
-      {
-        "id": "2",
-        "race":"alien",
-        "sex":"male",
-        "powertype":"martial",
-        "psychology1":"rage",
-        "type":"warrior",
-        "attribute1":"polychromaticSkin",
-        "attribute2":"boneSpurs",
-        "attribute3":"redEyes",
-        "image_url":"",
-        "description":"Hunt The Villain Now"
+        "description": "Hunt The Villain Now", 
+        "external_url": "", 
+        "image": "", 
+        "name": "",
+        "attributes": [
+          {
+            "trait_type": "Race", 
+            "value": "Alien"
+          }, 
+          {
+            "trait_type": "Sex", 
+            "value": "Male"
+          }, 
+          {
+            "trait_type": "Power Type", 
+            "value": "Martial"
+          },
+          {
+            "trait_type": "Psychology", 
+            "value": "Rage"
+          },
+          {
+            "trait_type": "Type", 
+            "value": "Warrior"
+          },
+          {
+            "value": "Polychromatic Skin"
+          },
+          {
+            "value": "Bone Spurs"
+          },
+          {
+            "value": "Red Eyes"
+          }
+        ] 
       }
     ]
 }
